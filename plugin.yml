@@ -1,5 +1,5 @@
 name: PearlThroughFenceGates
-main: enderpearlfencegatefix.Main
+main: org.golde.enderpearlfencegatefix.Main
 version: 1.0
 author: Eric Golde
 description: Custom plugin 
